@@ -7,6 +7,6 @@
 
 ### SpaceGame
 OOP graphics ga,e that spotlighted objects for user interractions
-##Spacegame menu
+## Spacegame menu
 ## spacegame start
 ## spacegame game over
