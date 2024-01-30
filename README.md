@@ -7,7 +7,7 @@
 
 ### SpaceGame
 OOP graphics ga,e that spotlighted objects for user interractions
-![Spacegame Menu] (https://github.com/9726468/programming1/blob/bb1880ac663acc6cca03de5e854faef4b227be21/images/sgb.png)
+![Spacegame Menu](https://github.com/9726468/programming1/blob/bb1880ac663acc6cca03de5e854faef4b227be21/images/sgb.png)
 ![Spacegame Gameplay] ()
 ![spacegame Game Over] ()
 
