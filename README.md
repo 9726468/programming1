@@ -7,6 +7,6 @@
 
 ### SpaceGame
 OOP graphics ga,e that spotlighted objects for user interractions
-## [Spacegame] Menu {images/sgb.png}
-## [spacegame] Gameplay {images/sgg.png}
-## [spacegame] Game Over {images/space.png}
+![Spacegame] Menu {images/sgb.png}
+![spacegame] Gameplay {images/sgg.png}
+![spacegame] Game Over {images/space.png}
