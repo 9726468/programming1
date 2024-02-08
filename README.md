@@ -13,7 +13,7 @@ OOP graphics ga,e that spotlighted objects for user interractions
 ![Source Code](https://github.com/9726468/programming1/blob/0791d116863ed7c2b20379ee89dc6e6f45cab34d/src/Final_Project.zip)
 ### Calculator
 OOP Program made to be similar to a calculator
-![Calculator Screen]((https://github.com/9726468/programming1/blob/main/images/Calculator.png?raw=true)
+![Calculator Screen](https://github.com/9726468/programming1/blob/main/images/Calculator.png?raw=true)
 ![Source Code](https://github.com/9726468/programming1/blob/afce0c6764cdaf379bdf0f253bd953e295805d6f/src/Calculator%202.zip)
 ### Grading Thing
 OOP tool that Grades stuff
