@@ -27,3 +27,5 @@ OOP Programm for a Screensaver
 OOP Programm that converted temperatures
 ![Temp Converted](https://github.com/9726468/programming1/blob/072fc406aa58ba1c80bac7d208a727735379e035/images/Temp.png?raw=true)
 ![Source Code](https://github.com/9726468/programming1/blob/5c3eb9a353710abf9725de08117f6d8e7bf03786/src/Converter.zip)
+## Individual project
+### i am making a wordle type game, but you only have four letters and four tries to get the word.
